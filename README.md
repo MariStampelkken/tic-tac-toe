@@ -16,7 +16,7 @@ A simple **Tic-Tac-Toe** game built with **JavaFX**, created for practice and le
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
-   cd tic-tac-toe
+   cd tictactoe
 
 2. Compile and run the application: 
    ```bash
