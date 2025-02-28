@@ -1,0 +1,8 @@
+.grid-label {
+    -fx-font-size: 40px;
+    font-size: 40px;
+    -fx-font-weight: bold;
+    font-weight: bold;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+}
